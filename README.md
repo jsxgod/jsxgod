@@ -4,6 +4,7 @@
 ### I'm a web developer 🏗️👷‍🕸🕷️
 ###
 [![trophy](https://github-profile-trophy.vercel.app/?username=jsxgod&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+#### You can learn more about me here: ksdev.netlify.app
 
 <!--
 **jsxgod/jsxgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
