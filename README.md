@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=jsxgod&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jsxgod&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **jsxgod/jsxgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
