@@ -4,6 +4,26 @@
 ### I'm a web developer 🏗️👷‍🕸🕷️
 #### You can learn more about me here: ksdev.netlify.app
 
+```typescript
+interface PersonalInfo {
+  name: string;
+  surname: string;
+  code: Array<ProgrammingLanguage>;
+  tools: Array<Tool>;
+  codeEditor: CodeEditor;
+  hobbies: Array<Hobby>;
+}
+let 👨‍💻: PersonalInfo = {
+  name: "Kacper",
+  surname: "Smyczyk"
+  code: [JavaScript, TypeScript, HTML, CSS, SCSS],
+  tools: [React, Redux, NextJS, Node, Jest],
+  design: [Figma, Blender, Illustrator],
+  codeEditor: Visual Studio Code,
+  hobbies: [VideoGames, Music, Chess],
+}
+```
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jsxgod&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
