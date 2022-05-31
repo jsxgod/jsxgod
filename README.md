@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🏆
+###
 [![trophy](https://github-profile-trophy.vercel.app/?username=jsxgod&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
