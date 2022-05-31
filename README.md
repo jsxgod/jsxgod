@@ -12,7 +12,7 @@ interface PersonalInfo {
   tools: Array<Tool>;
   codeEditor: CodeEditor;
   hobbies: Array<Hobby>;
-}
+};
 let 👨‍💻: PersonalInfo = {
   name: "Kacper",
   surname: "Smyczyk",
@@ -21,7 +21,7 @@ let 👨‍💻: PersonalInfo = {
   design: [Figma, Blender, Illustrator],
   codeEditor: Visual Studio Code,
   hobbies: [VideoGames, Music, Chess],
-}
+};
 ```
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jsxgod&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
