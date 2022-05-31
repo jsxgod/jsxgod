@@ -15,7 +15,7 @@ interface PersonalInfo {
 }
 let 👨‍💻: PersonalInfo = {
   name: "Kacper",
-  surname: "Smyczyk"
+  surname: "Smyczyk",
   code: [JavaScript, TypeScript, HTML, CSS, SCSS],
   tools: [React, Redux, NextJS, Node, Jest],
   design: [Figma, Blender, Illustrator],
