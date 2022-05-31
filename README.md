@@ -4,16 +4,8 @@
 ### I'm a web developer 🏗️👷‍🕸🕷️
 #### You can learn more about me here: ksdev.netlify.app
 
-```typescript
-interface PersonalInfo {
-  name: string;
-  surname: string;
-  code: Array<ProgrammingLanguage>;
-  tools: Array<Tool>;
-  codeEditor: CodeEditor;
-  hobbies: Array<Hobby>;
-};
-let 👨‍💻: PersonalInfo = {
+```javascript
+const 👨‍💻 = {
   name: "Kacper",
   surname: "Smyczyk",
   code: [JavaScript, TypeScript, HTML, CSS, SCSS],
