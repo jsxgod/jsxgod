@@ -9,6 +9,7 @@ const 👨‍💻 = {
   code: [JavaScript, TypeScript, HTML, CSS, SCSS],
   tools: [React, Redux, NextJS, Node, SQL, Jest, three.js],
   design: [Figma, Illustrator, framer-motion],
+  education: Computer Science,
   codeEditor: VisualStudioCode,
   hobbies: [VideoGames, Music, Chess],
 };
