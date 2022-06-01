@@ -17,6 +17,8 @@ const 👨‍💻 = {
 ### You can learn more about me here: [🌐>click<🌐](https://ksdev.netlify.app)
 ##
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsxgod&show_icons=true&theme=dark)
+###
 [![trophy](https://github-profile-trophy.vercel.app/?username=jsxgod&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ###
 [![Linkedin Badge](https://img.shields.io/badge/-Kacper%20Smyczyk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kacper-smyczyk/)](https://www.linkedin.com/in/kacper-smyczyk/)
