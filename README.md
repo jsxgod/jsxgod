@@ -24,7 +24,7 @@ const 👨‍💻 = {
 ###
 [![trophy](https://github-profile-trophy.vercel.app/?username=jsxgod&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 ###
-[![Linkedin Badge](https://img.shields.io/badge/-Kacper%20Smyczyk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kacper-smyczyk/)](https://www.linkedin.com/in/kacper-smyczyk/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kacper%20Smyczyk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kacper-smyczyk/)](https://www.linkedin.com/in/kacper-smyczyk/)qwe
 
 <!--
 **jsxgod/jsxgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
