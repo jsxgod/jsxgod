@@ -11,7 +11,7 @@ const 👨‍💻 = {
   design: [Figma, Illustrator, framer-motion],
   education: Computer Science,
   codeEditor: Visual Studio Code,
-  hobbies: [Video Games, Music, Chess, `Rubik's Cube speedsolving`],
+  hobbies: [Video Games, Music, Chess, "Rubik's Cube speedsolving"],
 };
 ```
 ## 
