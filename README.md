@@ -14,7 +14,8 @@ const 👨‍💻 = {
 };
 ```
 ## 
-### You can learn more about me on my portfolio: [ 🌐>click<🌐](https://ksdev.netlify.app)
+### You can learn more about me here: [🌐>click<🌐](https://ksdev.netlify.app)
+##
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jsxgod&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
