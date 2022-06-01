@@ -2,8 +2,6 @@
 
 ## Hi there, I'm Kacper 👋
 ### I'm a web developer 🏗️👷‍🕸🕷️
-#### You can learn more about me here: ksdev.netlify.app
-
 ```javascript
 const 👨‍💻 = {
   name: "Kacper",
@@ -15,6 +13,7 @@ const 👨‍💻 = {
   hobbies: [VideoGames, Music, Chess],
 };
 ```
+#### You can learn more about me here: <a href="https://ksdev.netlify.app" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jsxgod&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=darkhub&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
