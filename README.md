@@ -17,7 +17,7 @@ const 👨‍💻 = {
 ### You can learn more about me here: [🌐>click<🌐](https://ksdev.netlify.app)
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsxgod&show_icons=true&theme=dark&hide=stars,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsxgod&show_icons=true&theme=dark&hide=stars,contribs&include_all_commits=true)
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsxgod&theme=dark&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ###
