@@ -10,7 +10,7 @@ const 👨‍💻 = {
   surname: "Smyczyk",
   code: [JavaScript, TypeScript, HTML, CSS, SCSS],
   tools: [React, Redux, NextJS, Node, Jest],
-  design: [Figma, Blender, Illustrator],
+  design: [Figma, Illustrator, framer-motion],
   codeEditor: Visual Studio Code,
   hobbies: [VideoGames, Music, Chess],
 };
