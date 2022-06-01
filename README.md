@@ -10,8 +10,8 @@ const 👨‍💻 = {
   tools: [React, Redux, NextJS, Node, SQL, Jest, three.js],
   design: [Figma, Illustrator, framer-motion],
   education: Computer Science,
-  codeEditor: VisualStudioCode,
-  hobbies: [VideoGames, Music, Chess],
+  codeEditor: Visual Studio Code,
+  hobbies: [Video Games, Music, Chess, Rubik's Cube speedsolving],
 };
 ```
 ## 
