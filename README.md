@@ -7,7 +7,7 @@ const 👨‍💻 = {
   name: "Kacper",
   surname: "Smyczyk",
   code: [JavaScript, TypeScript, HTML, CSS, SCSS],
-  tools: [React, Redux, NextJS, Node, SQL, Jest],
+  tools: [React, Redux, NextJS, Node, SQL, Jest, three.js],
   design: [Figma, Illustrator, framer-motion],
   codeEditor: VisualStudioCode,
   hobbies: [VideoGames, Music, Chess],
