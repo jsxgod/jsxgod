@@ -26,6 +26,8 @@ const 👨‍💻 = {
 ###
 [![Linkedin Badge](https://img.shields.io/badge/-Kacper%20Smyczyk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kacper-smyczyk/)](https://www.linkedin.com/in/kacper-smyczyk/)
 
+![](https://komarev.com/ghpvc/?username=jsxgod)
+
 <!--
 **jsxgod/jsxgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
